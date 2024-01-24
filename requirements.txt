@@ -1,0 +1,7 @@
+pyzmq==25.1.2
+numpy==1.26.3
+opencv-python==4.9.0.80
+pillow==10.2.0
+watchdog==3.0.0
+marshmallow==3.20.2
+pytest==7.4.4

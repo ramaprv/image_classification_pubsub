@@ -1,0 +1,9 @@
+{
+  "video_path":	"/opt/code/data/traffic.mp4",
+  "fps": 15,
+  "log_path":	"/opt/logs",
+  "zmq_port":	"5555",
+  "socket_timeout": 100,
+  "stats_log_interval": 10,
+  "max_threads": 1
+}
