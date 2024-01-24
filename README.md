@@ -9,8 +9,10 @@ These configurations can be changed in `config.json`
 
 ## Setup
 1. Install [docker](https://docs.docker.com/engine/install/). Recommended version is `23.0.3`.
-2. `docker-compose build`
-3. `docker-compose up`
+2. `git clone https://github.com/ramaprv/image_classification_pubsub.git`
+3. `cd image_classification_pubsub`
+4. `docker-compose build`
+5. `docker-compose up`
 
 Example output:
 ```
